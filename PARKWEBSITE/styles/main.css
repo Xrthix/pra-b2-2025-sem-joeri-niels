@@ -178,10 +178,10 @@ footer{
 }
 
 .hidden-on-lg{
-  display: none;
+  display: block;
 }
 .hidden-on-sm{
-   display: block;
+   display: none;
 }
 
 /* 
