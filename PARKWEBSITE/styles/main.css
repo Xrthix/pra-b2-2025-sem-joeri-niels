@@ -151,6 +151,10 @@ button{
   font-weight: bold;
 }
 
+button:hover{
+  background: #3acc77;
+}
+
 .payment-option{
   height: 64px;
 }
