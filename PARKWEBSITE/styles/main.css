@@ -1,3 +1,7 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 /*
   Afgesproken kleuren:
 
@@ -185,6 +189,33 @@ footer{
 
 .copyright{
   text-align: center;
+}
+.productWrapper{
+  width: 50%;
+}
+
+.priceWrapper{
+  width: 20%;
+  
+}
+
+.amountWrapper{
+  width: 10%;
+}
+.totalPriceWrapper{
+  width: 20%;
+}
+.cartWrapper{
+  
+  width: 99%;
+  display: flex;
+  flex-direction: row;
+}
+
+.cartContentStyleTag{
+  
+  border-bottom: solid;
+  border-width: 1px;
 }
 
 .hidden-on-lg{
